@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# 出力フォルダ
+tamabi_news_pdfs/
+
+# 環境
+.venv/
+venv/
